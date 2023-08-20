@@ -31,13 +31,14 @@ Após isso, com a instância criada, vamos para o Putty para a etapa de acesso c
 Após conclusão dos passos 1 a 5, obteve-se:
 ![Imagem da Instância criada pelo site da AWS](instância_criada.png)
 
-Passo 6:
+### Passo 6:
+
 ![Imagem do PuTTY com o Host Name inserido](putty_ip.png)
 
-Passo 8:
+### Passo 8:
 ![Imagem do PuTTY com o arquivo da private key informado](putty_key.png)
 
-Por fim:
+### Por fim:
 ![Terminal exibido pelo PuTTY](putty_feito.png)
 ## Conclusão
 
