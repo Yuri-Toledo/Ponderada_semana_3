@@ -20,7 +20,7 @@ Para isso, seguiu-se as seguintes etapas:
 4. Criou-se uma instância com Amazon Linux, chaves de segurança já em formato ppk com tipo micro t2.
 5. Guarde o arquivo .ppk gerado em um lugar seguro.
 
-Após isso, com a instância criada, vamos para o Putty para a etapa de acesso com SSH
+Após isso, com a instância criada, vamos para o Putty para a etapa de acesso com SSH:
 
 6. Com o Putty aberto, inseriu-se no campo Host Name: ec2-user@<IPdaEC2>.
 7. Agora na barra lateral, navegou-se Connection >> SSH >> AUTH >> Credentials.
@@ -29,16 +29,16 @@ Após isso, com a instância criada, vamos para o Putty para a etapa de acesso c
 
 ## Resultado
 Após conclusão dos passos 1 a 5, obteve-se:
-![](instância_criada.png)
+![Imagem da Instância criada pelo site da AWS](instância_criada.png)
 
 Passo 6:
-![](putty_ip.png)
+![Imagem do PuTTY com o Host Name inserido](putty_ip.png)
 
 Passo 8:
-![](putty_key.png)
+![Imagem do PuTTY com o arquivo da private key informado](putty_key.png)
 
 Por fim:
-![](putty_feito.png)
+![Terminal exibido pelo PuTTY](putty_feito.png)
 ## Conclusão
 
 Agora estamos prontos para manipular a nossa instância EC2.
